@@ -1,11 +1,12 @@
 {
   "name": "console-noops",
+  "version": "1.0.0",
   "homepage": "https://github.com/cybertoothca/console-noops",
   "authors": [
     "Dan Nelson <dnelson@cybertooth.ca>"
   ],
   "description": "A simple Javascript library that will prevent legacy browsers from throwing errors when they don't support basic console functions. e.g. console.debug(...)",
-  "main": "console-noops.js",
+  "main": "src/console-noops.js",
   "keywords": [
     "noop"
   ],
